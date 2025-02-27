@@ -1,1 +1,5 @@
-print("Hello, World!") 
+print("Hello, World!")
+print("Welcome to Python Programming!")
+print("=========================")
+print("Today is a great day to code!")
+print("Let's build something amazing!")
